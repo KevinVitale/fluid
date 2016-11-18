@@ -6,7 +6,8 @@ This is an adaptation of:
 
 ## Background
 
-The project was originally done in April, 2011, (while at home and not working on the Domino's mobile app).
+The project was originally done in April, 2011  
+> _(while at home, and while not working on the Domino's mobile app)._
 
 ## Running the code
 
