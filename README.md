@@ -2,7 +2,7 @@
 
 This is an adaptation of:
 > _"Real-Time Fluid Dynamics for Games"_  
-> by *Jos Stam* [(PDF here)](http://www.intpowertechcorp.com/GDC03.pdf)
+> by *Jos Stam* [(PDF here)](http://www.dgp.toronto.edu/people/stam/reality/Research/pdf/GDC03.pdf)
 
 ## Background
 
